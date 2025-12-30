@@ -1,4 +1,4 @@
-# Amazon Egypt E2E Automation – Playwright
+# Amazon E2E Automation – Playwright
 
 This project is an end-to-end (E2E) automation framework built using **Playwright Test**
 to validate critical user flows on an Amazon-like e-commerce website.
